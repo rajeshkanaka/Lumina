@@ -95,6 +95,27 @@ This is not a tool. It is a **ritual**.
 
 <div align="center">
 
+### Lumina's First Creation
+
+<br>
+
+<img src="docs/lumina-masterpiece.png" alt="Lumina's first masterpiece — a musician in a rain-lit café at night" width="820" />
+
+<br>
+
+<sub>*A quiet café at night, rain on glass, warm light, an open notebook — manifested from words alone.*</sub>
+
+<br>
+<br>
+
+</div>
+
+---
+
+<br>
+
+<div align="center">
+
 <img src="docs/lumina-flow.png" alt="The Lumina Ritual — from raw thought to rendered masterpiece" width="900" />
 
 </div>
